@@ -96,3 +96,15 @@ body {
     font-size: 28px;
     margin-top: -6px;
 }
+
+.weather {
+    display: none;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: 10px;
+    text-align: left;
+    display: none;
+}
